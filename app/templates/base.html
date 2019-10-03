@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        {% if title %}
+        <title> {{ title }}</title>
+        {% else %}
+        <title> Welcome to blog </title>
+        {% endif %}
+    </head>
+    <body style="background-color:rgb(228, 182, 151)  ">
+        
+        
+        {% extends 'bootstrap/base.html'%}
+       
+        {% block navbar %}
+        {% include 'navbar.html' %}
+        {% endblock %}
+      
+        
+
+        {% block content %}
+        {%block styles %}
+        {{super()}}
+        
+        {{ simplemde.css}}
+        {{ simplemde.js }}
+        {% endblock %}
+
+        {% endblock%}
+    </body>
+</html>

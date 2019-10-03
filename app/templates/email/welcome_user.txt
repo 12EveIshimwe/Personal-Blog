@@ -1,0 +1,6 @@
+Hello {{new_subscriber.name}}
+Welcome to my Blog App 
+
+Thank younfor signing in and may you enjoy the rest of our app!
+
+Thank you! .
