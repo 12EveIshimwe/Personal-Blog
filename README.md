@@ -17,7 +17,7 @@ None
 ## Input
 * 1.Enter your email address,
 * 2.Enter password,
-* 3.Submit  form.
+* 3.Submit the form.
 * 4.Write down the quote.
 * 5.Comment on the quote.
 
