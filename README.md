@@ -10,7 +10,7 @@ None
 ## BDD
 * Comment on blog.
 * View recent posts.
-* Email .
+* Email alert.
 * Create blog and sign in blog.
 * Update and delete blog.
 
