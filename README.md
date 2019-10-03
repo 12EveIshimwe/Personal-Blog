@@ -2,7 +2,7 @@
 Built By Eve Ishimwe
 
 ## Description
-A personal blog is a website where one will create and share opinions and others users can read and comment on them. The  will also display random quotes to inspire users.
+A personal blog is a website where one will create and share opinions and others users can read and comment on them. The app will also display random quotes to inspire users.
 
 ## Installation Requirements
 None
