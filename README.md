@@ -8,7 +8,7 @@ A personal blog is a website where one will create and share opinions and others
 None
 
 ## BDD
-*  on blog.
+* Comment on blog.
 * View recent posts.
 * Email alert.
 * Create blog and sign in blog.
