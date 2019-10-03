@@ -32,7 +32,7 @@ None
 
 ## Technologies Used:
 * Python3.6
-* Flask 
+* F
 * Bootstrap 
 * Database
 
