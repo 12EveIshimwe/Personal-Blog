@@ -31,7 +31,7 @@ None
 None
 
 ## Technologies Used:
-* Python3.6
+* Python
 * Flask
 * Bootstrap 
 * Database
